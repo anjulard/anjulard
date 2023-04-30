@@ -2,14 +2,10 @@
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🌱 I’m currently learning **Node Js and React Js**
+- 🌱 I’m currently learning **Node Js** and **React Js**
 
 - 📫 How to reach me **ridmianjula@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://medium.com/@ridmi-17
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
